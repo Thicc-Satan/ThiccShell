@@ -1,3 +1,0 @@
-no setup!
-
-just run "python3 thiccshell.py
